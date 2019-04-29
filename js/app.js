@@ -155,10 +155,10 @@ allCards.forEach(function (card) {
             openCards.push(card);
 
             if (openCards.length == 1) {
-                if (moves == 0) {        
+                if (moves == 0) {
                     timer(); //stating the timer with first move
                 }
-                
+
             }
 
             if (openCards.length == 2) {
