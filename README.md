@@ -15,3 +15,10 @@ Each turn:
 - If the cards do not match, both cards are flipped face down.
 - The game ends once all cards have been correctly matched.
 
+
+#### References
+
+The third-party resources that helped in some how in this project:
+  * [Memory Game project Webinar](https://www.youtube.com/watch?v=x47oLiTpIVk)
+ * [How to build a Memory Matching Game](https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript)
+ * Udacity Knowledge answers
