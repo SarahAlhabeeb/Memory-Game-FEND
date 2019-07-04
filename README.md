@@ -18,6 +18,9 @@ Each turn:
 ### How to run
 Load this link in your browser https://sarahalhabeeb.github.io/Memory-Game-FEND/
 
+### The starter code
+provided from Udacity: [here](https://github.com/udacity/fend-project-memory-game)
+
 #### References
 
 The third-party resources that helped in some how in this project:
